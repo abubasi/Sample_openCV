@@ -1,3 +1,4 @@
+#Moving object dectection 
 import cv2
 import imutils
 cam = cv2.VideoCapture(0)
